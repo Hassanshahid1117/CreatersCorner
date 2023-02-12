@@ -1,0 +1,14 @@
+{
+  "SwaggerSettings": {
+    "Enable": true,
+    "Title": "Creaters Corner",
+    "Version": "v1",
+    "Description": "Creaters Corner WebApi built with Multitenancy Support.",
+    "ContactName": "Creaters Corner",
+    "ContactEmail": "email@createrscorner.com",
+    "ContactUrl": "createrscorner.com/support",
+    "License": true,
+    "LicenseName": "Creaters Corner @2023",
+    "LicenseUrl": "createrscorner.com/license"
+  }
+}

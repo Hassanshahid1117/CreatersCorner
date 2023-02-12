@@ -1,0 +1,17 @@
+global using Ardalis.Specification;
+global using FluentValidation;
+global using CreatersCorner.WebApi.Application.Common.Events;
+global using CreatersCorner.WebApi.Application.Common.Exceptions;
+global using CreatersCorner.WebApi.Application.Common.FileStorage;
+global using CreatersCorner.WebApi.Application.Common.Interfaces;
+global using CreatersCorner.WebApi.Application.Common.Models;
+global using CreatersCorner.WebApi.Application.Common.Persistence;
+global using CreatersCorner.WebApi.Application.Common.Specification;
+global using CreatersCorner.WebApi.Application.Common.Validation;
+global using CreatersCorner.WebApi.Domain.Catalog;
+global using CreatersCorner.WebApi.Domain.Common;
+global using CreatersCorner.WebApi.Domain.Common.Contracts;
+global using CreatersCorner.WebApi.Shared.Notifications;
+global using MediatR;
+global using Microsoft.Extensions.Localization;
+global using Microsoft.Extensions.Logging;

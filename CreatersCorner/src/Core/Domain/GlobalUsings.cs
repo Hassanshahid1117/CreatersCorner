@@ -1,0 +1,1 @@
+﻿global using CreatersCorner.WebApi.Domain.Common.Contracts;

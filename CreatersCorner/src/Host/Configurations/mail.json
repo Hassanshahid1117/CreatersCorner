@@ -1,0 +1,10 @@
+{
+  "MailSettings": {
+    "DisplayName": "Creaters Corner",
+    "From": "email@createrscorner.com",
+    "Host": "smtp.createrscorner.email",
+    "Password": "createrscorner",
+    "Port": 8080,
+    "UserName": "createrscorner"
+  }
+}
